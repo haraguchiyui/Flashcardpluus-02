@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Flushcardplus</string>
+
+    <string name = "run_title">run</string>
+    <string name = "run_content">・She runs so fast.</string>
+    <string name = "run_meaning">走る</string>
+
+    <string name = "walk_title">walk</string>
+    <string name = "walk_content">・She took a walk with her dog.</string>
+    <string name="walk_meaning">散歩</string>
+</resources>
